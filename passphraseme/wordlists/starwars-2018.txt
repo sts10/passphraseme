@@ -1,3 +1,4 @@
+*nsync
 aayla
 abandon
 abandoned
@@ -219,10 +220,10 @@ astronomical
 at-act
 at-at
 at-ats
-atmospheric
-atop
 at-st
 at-sts
+atmospheric
+atop
 attached
 attaches
 attack
@@ -255,20 +256,20 @@ axes
 babies
 baby
 back
+back-to-back
 backed
 backfires
 background
 backing
 backpack
 backs
-back-to-back
 bacta
 bad
 badlands
 badly
 bail
-balancing
 bala-tik
+balancing
 balbianello
 balcony
 ball
@@ -621,6 +622,7 @@ closes
 cloud
 cloud-riders
 clutches
+co-pilot
 coaxium
 cobalt
 code
@@ -758,7 +760,6 @@ cooperate
 cooperated
 coordinated
 coordinates
-co-pilot
 core
 corellia
 cornered
@@ -777,9 +778,9 @@ council
 counsel
 count
 counter
-counterattack
 counter-attack
 counter-attacked
+counterattack
 counters
 course
 cover
@@ -790,10 +791,10 @@ cowardly
 craft
 crait
 crash
-crashes
-crashing
 crash-land
 crash-lands
+crashes
+crashing
 crater
 craves
 crawl
@@ -845,9 +846,9 @@ dangerous
 dangers
 dangles
 dark
+dark-side
 darklighter
 darkness
-dark-side
 darksider
 darth
 dashes
@@ -859,6 +860,7 @@ davits
 dawn
 day
 days
+de-stabilize
 deactivate
 deactivated
 deactivates
@@ -963,7 +965,6 @@ desperate
 desperately
 despite
 destabilize
-de-stabilize
 destined
 destiny
 destroy
@@ -1217,7 +1218,6 @@ escort
 escorting
 escorts
 espa
-espa�a
 essentially
 establish
 estimated
@@ -1426,11 +1426,11 @@ foot
 for
 force
 force-choking
-forced
 force-flip
-forces
 force-sensitive
 force-tricked
+forced
+forces
 forcibly
 forcing
 foreman
@@ -1458,9 +1458,9 @@ fractional
 frames
 frantically
 free
+free-fall
 freed
 freedom
-free-fall
 freeing
 frees
 freeze
@@ -1665,8 +1665,8 @@ hideout
 hides
 hiding
 high
-higher
 high-security
+higher
 hilt
 him
 himself
@@ -1702,9 +1702,9 @@ hosnian
 hostage
 hostile
 hosts
-hoth
 hot-head
 hot-wires
+hoth
 house
 housing
 hovering
@@ -1735,8 +1735,8 @@ hux
 hyperdrive
 hyperfuel
 hyperspace
-ice
 i-class
+ice
 idea
 identify
 identity
@@ -2133,9 +2133,9 @@ makes
 making
 malbus
 man
+man-eating
 manage
 manages
-man-eating
 maneuver
 maneuvers
 manifestation
@@ -2288,7 +2288,6 @@ mustafar
 musters
 mutilated
 mutiny
-�mwe
 mygeeto
 mynocks
 mysterious
@@ -2355,9 +2354,8 @@ noting
 notorious
 november
 now
-nower
 now-frozen
-*nsync
+nower
 nudo
 number
 numbers
@@ -2373,6 +2371,7 @@ occurred
 occurs
 odds
 off
+off-screen
 offense
 offer
 offered
@@ -2381,7 +2380,6 @@ offers
 office
 officer
 officers
-off-screen
 old
 older
 onboard
@@ -2462,7 +2460,6 @@ ozzel
 packet
 padawan
 padawans
-padm�
 paige
 pain
 pair
@@ -2706,12 +2703,12 @@ queen
 quest
 question
 questions
+qui-gon
 quick
 quickly
 quiet
 quietly
 quiggold
-qui-gon
 race
 racer
 racetrack
@@ -2739,6 +2736,11 @@ rathtars
 ravaged
 ray
 raymus
+re-activate
+re-emergence
+re-evaluated
+re-evaluates
+re-open
 reach
 reached
 reaches
@@ -2746,7 +2748,6 @@ reaching
 reacted
 reaction
 reactions
-re-activate
 reactor
 reacts
 ready
@@ -2793,10 +2794,7 @@ red
 redeemed
 redemption
 reduced
-re-emergence
 reestablished
-re-evaluated
-re-evaluates
 reference
 referred
 refined
@@ -2853,7 +2851,6 @@ rendered
 rendering
 rendezvous
 reneging
-re-open
 reorganized
 repairs
 repeatedly
@@ -3306,9 +3303,9 @@ stalks
 stalling
 stampede
 stand
+stand-off
 standard
 standing
-stand-off
 star
 stardust
 stares
@@ -3722,6 +3719,7 @@ two
 tynnra
 tyranus
 tythoni
+u-wing
 ultimate
 ultimately
 unable
@@ -3783,7 +3781,6 @@ ushered
 using
 utapau
 utterly
-u-wing
 vader
 vague
 vain
@@ -3791,7 +3788,6 @@ valid
 valuable
 vander
 vandor
-vane�
 vanished
 vanishes
 varactyl
@@ -3838,7 +3834,6 @@ volcanic
 volley
 volunteer
 vos
-vos�
 vows
 vulnerability
 vulnerable
@@ -3977,6 +3972,8 @@ written
 wroshyr
 x-wing
 x-wings
+y-wing
+y-wings
 yacht
 yavin
 years
@@ -3991,8 +3988,6 @@ younger
 younglings
 youngster
 your
-y-wing
-y-wings
 zemeckis
 zett
 zev
